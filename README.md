@@ -16,7 +16,7 @@ Front-End 개발자 김우종입니다.
 
 * GitHub : https://github.com/KimWoojong1995 <br />
 
-* Blog : https://woojong-develop.tistory.com <br />
+* Blog : https://woojong-develop.tistory.com <br /><br />
 
 개발자를 위한 개발이 아닌 모두를 위한 개발자, <br />
 스스로 학습하며 업무에서 실력을 발휘하는 개발자<br />
