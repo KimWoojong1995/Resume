@@ -43,4 +43,5 @@ Front-End 개발자 김우종입니다.
 <img src="https://user-images.githubusercontent.com/65944245/99964234-565b3000-2dd6-11eb-88d7-194306bc935a.png" width="40px" height="40px">
 <img src="https://user-images.githubusercontent.com/65944245/99964238-578c5d00-2dd6-11eb-86d1-fd5bd341c766.png" width="40px" height="40px">
 <img src="https://user-images.githubusercontent.com/65944245/99964237-56f3c680-2dd6-11eb-8361-56f3c44bdef2.png" width="40px" height="40px">
+<img alt="rxjs" src="https://user-images.githubusercontent.com/13250888/53627366-a2059780-3c4b-11e9-8587-d959ed1e7119.png" width="32" height="32"/>
 
