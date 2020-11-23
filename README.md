@@ -33,3 +33,15 @@ Front-End 개발자 김우종입니다.
   * 2014년 10월~2020년 3월 <br /><br />
   
 # 보유기술 및 사용도구
+<img src="https://user-images.githubusercontent.com/65944245/99964230-552a0300-2dd6-11eb-9113-cd88b6d93463.png">
+![webpack](https://user-images.githubusercontent.com/65944245/99964234-565b3000-2dd6-11eb-88d7-194306bc935a.png)
+![redux](https://user-images.githubusercontent.com/65944245/99964235-56f3c680-2dd6-11eb-86a9-c95d90fb9e70.png)
+![mongodb](https://user-images.githubusercontent.com/65944245/99964237-56f3c680-2dd6-11eb-8361-56f3c44bdef2.png)
+![mysql](https://user-images.githubusercontent.com/65944245/99964238-578c5d00-2dd6-11eb-86d1-fd5bd341c766.png)
+![nodejs](https://user-images.githubusercontent.com/65944245/99964240-578c5d00-2dd6-11eb-8b3b-64b4debfb429.png)
+![sass](https://user-images.githubusercontent.com/65944245/99964241-5824f380-2dd6-11eb-9686-c6ef9ee3bb6a.png)
+![typescript](https://user-images.githubusercontent.com/65944245/99964243-5824f380-2dd6-11eb-870f-a72cc3ed7ba5.png)
+![css](https://user-images.githubusercontent.com/65944245/99964244-58bd8a00-2dd6-11eb-8c67-91c57fa83ed3.png)
+![html](https://user-images.githubusercontent.com/65944245/99964246-58bd8a00-2dd6-11eb-9cce-a94fe8528f38.png)
+![react](https://user-images.githubusercontent.com/65944245/99964247-59562080-2dd6-11eb-8c4b-083a5e5d7e29.png)
+
