@@ -43,6 +43,7 @@ Front-End 개발자 김우종입니다.
    * 2016년 8월~2018년 5월 <br /> <br />
 ## 프로젝트
 ### 주차장 무인 결제 시스템
+영상 - https://www.youtube.com/watch?v=-h1pGnmmUes <br /><br />
 ![관리자주차기록](https://user-images.githubusercontent.com/65944245/101732267-49417f00-3b00-11eb-91db-1ef80a0339b2.png)<br /><br />
 https://github.com/KimWoojong1995/ParkingSystem <br />
 평소 주차장 이용 시 무인 결제 시스템의 원리와 구조가 궁금했습니다.<br />
