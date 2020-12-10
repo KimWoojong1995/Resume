@@ -49,6 +49,6 @@ Front-End 개발자 김우종입니다.
 Node.js를 사용하였으며 Nunjucks 템플릿을 활용하여 view를 구성했습니다.<br /><br />
 MySQL Sequelize로 DB 구현을 하였습니다.<br /><br />
 session과 cookie를 사용해 로그인 관리를 하였고 bcrypt를 사용해 Password를 암호화하였습니다.<br /><br /><br />
-<a href="https://www.youtube.com/watch?v=rH9jyhNQZ0k">동작 영상</a> <br /><br />
-<a href-"https://github.com/KimWoojong1995/ParkingSystem">프로젝트 깃허브</a><br />
+<a href="https://www.youtube.com/watch?v=rH9jyhNQZ0k">작동 영상</a> <br /><br />
+<a href-"https://github.com/KimWoojong1995/ParkingSystem">깃허브</a> <br />
 
