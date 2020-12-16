@@ -41,7 +41,6 @@ Front-End 개발자 김우종입니다.
    * 2013년 8월 <br />
 * 육군 제 23사단 수색대대
    * 2016년 8월~2018년 5월 <br /> <br />
-## 프로젝트 1
 ### 주차장 무인 결제 시스템
 ![관리자주차기록](https://user-images.githubusercontent.com/65944245/101732267-49417f00-3b00-11eb-91db-1ef80a0339b2.png)<br /><br />
 <img width="584" alt="주차장EERDiagram" src="https://user-images.githubusercontent.com/65944245/101730741-ebac3300-3afd-11eb-80ad-6e453cfe1fae.png"><br /><br />
@@ -51,4 +50,3 @@ MySQL Sequelize로 DB 구현을 하였습니다.<br /><br />
 session과 cookie를 사용해 로그인 관리를 하였고 bcrypt를 사용해 Password를 암호화하였습니다.<br /><br /><br />
 <a href="https://www.youtube.com/watch?v=rH9jyhNQZ0k">작동 영상</a> <br /><br />
 <a href="https://github.com/KimWoojong1995/ParkingSystem">깃허브</a> <br /><br />
-## 프로젝트 2
