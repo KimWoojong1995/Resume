@@ -29,7 +29,7 @@ Front-End 개발자 김우종입니다.
   
 # 보유기술 및 사용도구
 <img alt="javascript" src="https://user-images.githubusercontent.com/65944245/99964230-552a0300-2dd6-11eb-9113-cd88b6d93463.png" width="100" height="100"><img alt="react" src="https://user-images.githubusercontent.com/13250888/62798586-90d58680-bb19-11e9-9a82-9762725abede.png" width="100" height="100"><img alt="css" src="https://user-images.githubusercontent.com/65944245/99964244-58bd8a00-2dd6-11eb-8c67-91c57fa83ed3.png" width="100" height="100"> <br />
-<img alt="html" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="100" height="100"><img alt="nodejs" src="https://user-images.githubusercontent.com/65944245/99966292-6fb1ab80-2dd9-11eb-9f24-a234a5677855.png" width="100" height="100"><img alt="mysql" src="https://user-images.githubusercontent.com/65944245/99964238-578c5d00-2dd6-11eb-86d1-fd5bd341c766.png" width="100" height="100"><img alt="mongodb" src="https://user-images.githubusercontent.com/65944245/99964237-56f3c680-2dd6-11eb-8361-56f3c44bdef2.png" width="100" height="100"> <br /><br />
+<img alt="html" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="100" height="100"><img alt="nodejs" src="https://user-images.githubusercontent.com/65944245/99966292-6fb1ab80-2dd9-11eb-9f24-a234a5677855.png" width="100" height="100"><img alt="mysql" src="https://user-images.githubusercontent.com/65944245/99964238-578c5d00-2dd6-11eb-86d1-fd5bd341c766.png" width="100" height="100">
 
 ## 학력 및 병역
 * 대입검정고시
