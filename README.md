@@ -12,7 +12,7 @@ Front-End 개발자 김우종입니다.
 
 * E-mail : woojong1995@gmail.com <br />
 
-* GitHub : https://github.com/KimWoojong1995 <br />
+* GitHub : https://github.com/devjong2 <br />
 
 * Blog : https://woojong-develop.tistory.com <br /><br />
 
