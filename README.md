@@ -8,7 +8,7 @@ Front-End 개발자 김우종입니다.
 
 * 1995.07.30 / Male <br />
 
-* PortFolio : https://kimwoojong1995.github.io/PortFolio <br />
+* PortFolio : https://devjong2.github.io/PortFolio/ <br />
 
 * E-mail : woojong1995@gmail.com <br />
 
