@@ -44,4 +44,4 @@ Node.js를 사용하였으며 Nunjucks 템플릿을 활용하여 view를 구성�
 MySQL Sequelize로 DB 구현을 하였습니다.<br /><br />
 session과 cookie를 사용해 로그인 관리를 하였고 bcrypt를 사용해 Password를 암호화하였습니다.<br /><br /><br />
 <a href="https://www.youtube.com/watch?v=rH9jyhNQZ0k">작동 영상</a> <br /><br />
-<a href="https://github.com/KimWoojong1995/ParkingSystem">깃허브</a> <br /><br />
+<a href="https://github.com/devjong2/ParkingSystem">깃허브</a> <br /><br />
